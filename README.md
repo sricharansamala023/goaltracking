@@ -8,10 +8,8 @@ GoalTrack is a role-based performance management portal that lets employees set 
 
 ## Live Demo
 
-- **Live URL:**https://goaltracking-diwl.vercel.app/
-- **GitHub:** https://github.com/sricharansamala023/goaltracking
-
----
+- **Live URL:** https://goaltracking.vercel.app    
+- **GitHub:** https://github.com/sricharansamala023/goaltracking   
 
 ## Demo Accounts
 
