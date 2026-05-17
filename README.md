@@ -6,7 +6,7 @@ GoalTrack is a role-based performance management portal that lets employees set 
 
 ---
 
-## ✨ Features
+##  Features
 
 | Role | Capabilities |
 |------|-------------|
@@ -25,7 +25,7 @@ GoalTrack is a role-based performance management portal that lets employees set 
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 goaltrack/
@@ -42,7 +42,7 @@ goaltrack/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -74,7 +74,7 @@ npm run preview   # preview the production build locally
 
 ---
 
-## 📦 Required Dependencies
+##  Required Dependencies
 
 ### Core
 
@@ -125,7 +125,7 @@ npm install -D prettier
 
 ---
 
-## ⚙️ Configuration Files Needed
+##  Configuration Files Needed
 
 ### `vite.config.ts`
 
@@ -191,7 +191,7 @@ createRoot(document.getElementById('root')!).render(
 
 ---
 
-## 👤 Demo Accounts
+##  Demo Accounts
 
 | Name | Role | Department |
 |------|------|------------|
@@ -244,7 +244,7 @@ draft → pending → approved
 
 ---
 
-## 🎨 Thrust Areas
+##  Thrust Areas
 
 | Icon | Area |
 |------|------|
