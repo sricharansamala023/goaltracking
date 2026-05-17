@@ -9,7 +9,6 @@ GoalTrack is a fully functional, role-based performance management portal built 
 ## Live Demo
 
 Live URL: https://goaltracking-diwl.vercel.app
-
 GitHub Repository: https://github.com/sricharansamala023/goaltracking
 
 ---
